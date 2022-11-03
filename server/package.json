@@ -14,7 +14,6 @@
   },
   "devDependencies": {
     "@mermaid-js/mermaid-cli": "^9.1.7",
-    "git-commit-msg-linter": "^4.2.1",
     "prisma": "^4.5.0",
     "prisma-erd-generator": "^1.2.2",
     "tsx": "^3.11.0",
